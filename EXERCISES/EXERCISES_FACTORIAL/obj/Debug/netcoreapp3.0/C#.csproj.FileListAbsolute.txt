@@ -1,0 +1,11 @@
+/home/alejandro/Documentos/C#/bin/Debug/netcoreapp3.0/C#
+/home/alejandro/Documentos/C#/bin/Debug/netcoreapp3.0/C#.deps.json
+/home/alejandro/Documentos/C#/bin/Debug/netcoreapp3.0/C#.runtimeconfig.json
+/home/alejandro/Documentos/C#/bin/Debug/netcoreapp3.0/C#.runtimeconfig.dev.json
+/home/alejandro/Documentos/C#/bin/Debug/netcoreapp3.0/C#.dll
+/home/alejandro/Documentos/C#/bin/Debug/netcoreapp3.0/C#.pdb
+/home/alejandro/Documentos/C#/obj/Debug/netcoreapp3.0/C#.csprojAssemblyReference.cache
+/home/alejandro/Documentos/C#/obj/Debug/netcoreapp3.0/C#.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/C#/obj/Debug/netcoreapp3.0/C#.AssemblyInfo.cs
+/home/alejandro/Documentos/C#/obj/Debug/netcoreapp3.0/C#.dll
+/home/alejandro/Documentos/C#/obj/Debug/netcoreapp3.0/C#.pdb

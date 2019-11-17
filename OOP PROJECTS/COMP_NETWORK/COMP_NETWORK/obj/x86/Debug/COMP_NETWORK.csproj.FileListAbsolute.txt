@@ -1,0 +1,5 @@
+/home/alejandro/Documentos/GITHUB/OOP PROJECTS/COMP_NETWORK/COMP_NETWORK/obj/x86/Debug/COMP_NETWORK.csprojAssemblyReference.cache
+/home/alejandro/Documentos/GITHUB/OOP PROJECTS/COMP_NETWORK/COMP_NETWORK/bin/Debug/COMP_NETWORK.exe
+/home/alejandro/Documentos/GITHUB/OOP PROJECTS/COMP_NETWORK/COMP_NETWORK/bin/Debug/COMP_NETWORK.pdb
+/home/alejandro/Documentos/GITHUB/OOP PROJECTS/COMP_NETWORK/COMP_NETWORK/obj/x86/Debug/COMP_NETWORK.exe
+/home/alejandro/Documentos/GITHUB/OOP PROJECTS/COMP_NETWORK/COMP_NETWORK/obj/x86/Debug/COMP_NETWORK.pdb

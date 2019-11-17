@@ -1,22 +1,12 @@
 ﻿<Properties StartupConfiguration="{18D9BF02-6BBC-4AA1-9C59-768098F1F230}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="COMP_NETWORK/NETWORK.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mobile.cs">
     <Files>
-      <File FileName="COMP_NETWORK/NETWORK.cs" Line="74" Column="13" />
-      <File FileName="COMP_NETWORK/Computer.cs" Line="15" Column="9" />
+      <File FileName="COMP_NETWORK/Computer.cs" Line="3" Column="1" />
+      <File FileName="COMP_NETWORK/NETWORK.cs" Line="16" Column="13" />
+      <File FileName="Mobile.cs" Line="54" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="COMP_NETWORK" expanded="True">
-            <Node name="COMP_NETWORK" expanded="True">
-              <Node name="NETWORK.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.COMP__NETWORK FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.COMP__NETWORK PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

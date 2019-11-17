@@ -3,10 +3,9 @@ using System;
 
 namespace OOP_EXERCISE{
     public class Screen{
-        
         // Screen atributes
-        private string _scrSize;
-        private string _scrColor;
+        private string _scrSize = null;
+        private string _scrColor = null;
 
         // Constructor
         public Screen (string scrSize, string scrColor){
@@ -26,7 +25,6 @@ namespace OOP_EXERCISE{
         }
     }
 }
-
 
 
 

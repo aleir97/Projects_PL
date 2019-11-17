@@ -3,25 +3,24 @@ using System;
 
 
 namespace OOP_EXERCISE{
-    
     public class Mobile_ph{
-        private string _model;
-        private string _manufacturer;
-        private string _owner;
-        private int _price;
+        //Mobile phone atributes
+        private string _model = null;
+        private string _manufacturer = null;
+        private string _owner = null;
+        private int _price = 0;
         
-        private Battery _phBattery;
-        private Screen _phScreen;
+        private Battery _phBattery = null;
+        private Screen _phScreen = null;
     
-
         public Mobile_ph (string model, string manufacturer, string owner, int price, string batModel, int batIdle, int batTimeHourTalk, 
-            string scrSize, string scrColor   ){
+            string scrSize, string scrColor, BatteryType batteryType ){
                 this._model = model;
                 this._manufacturer = manufacturer;
                 this._owner = owner;
                 this._price = price;
                 
-                this._phBattery = new Battery (batModel, batIdle, batTimeHourTalk);
+                this._phBattery = new Battery (batModel, batIdle, batTimeHourTalk, batteryType );
                 this._phScreen = new Screen (scrSize, scrColor);
         }
 
@@ -55,11 +54,8 @@ namespace OOP_EXERCISE{
             get { return _phScreen; }
             set { _phScreen = value; }
         }
-    
-
     }
 }
-
 
 
 

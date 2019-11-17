@@ -88,4 +88,54 @@ namespace OOP_in_Csharp{
 
 
     }
+
+public class Server : Computer
+    {
+        public Server (string ip, string make, string osystem, bool switched, string dest) : base(ip, make, osystem, switched)
+        {           
+            this.Destination = dest;
+
+        }
+
+        // private member variables
+        protected string _destination;
+
+        // public properties
+        public string Destination
+        {
+            get { return _destination;  }
+            set { _destination = value; }
+        }
+
+
+    }
+    
+    //--------------------------------
+    public class GraphicSystem : Computer{
+        public GraphicSystem (string ip, string make, string osystem, bool switched, string graphicOS) 
+            : base(ip, make, osystem, switched){            
+                    
+                this.GraphicOS = graphicOS;
+        }
+
+        // protected member variables
+        protected string _graphicOS;
+        
+        // public properties
+        public string GraphicOS{
+            get { return _graphicOS ;  }
+            set { _graphicOS = value; }
+        }
+    }
+    
+    //--------------------------------
+
+
 }
+
+/*
+
+csc -t:library  Computer.cs
+mcs -r:Computer.dll NETWORK.cs
+
+*/

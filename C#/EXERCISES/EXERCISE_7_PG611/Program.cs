@@ -14,13 +14,27 @@ namespace OOP_EXERCISE{
             Mobile_ph phone2 = new Mobile_ph("S10", "SAMSUNG", "DANIEL", 800, "ASR432", 5412, 22, "6.5\"","GREEN", z );
 
         }
+        static void GSMCallHistoryTest(){
+            BatteryType x = BatteryType.Graphene;
+            Mobile_ph phone0 = new Mobile_ph("N400", "NOKIA", "ALEJANDRO", 400, "ERS456", 6535, 22, "6.5\"","BLUE", x );
+
+            TimeSpan time_call = new TimeSpan(16, 14, 18);
+            DateTime date = DateTime.Now;
+            TimeSpan drtn_call = new TimeSpan(1, 20, 0);
+
+            Call call0 = new Call(date, time_call, drtn_call);
+
+            phone0.AddCall(call0);
+
+            
+
+
+
+
+        }
+        
         static void Main(string[] args){
 
-
-
-        
-          
-        
         }
     }
 }

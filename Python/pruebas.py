@@ -51,15 +51,26 @@ for i in range(0, 1000, 1):
 
 print(cont / 1000)
 '''
+'''
+numero_columnas = 5
+numero_filas = 5
 
-dict = {'a':'Alejandro', 'b': 'Carmen', 'c': 'Marina'}
+matriz = [range(numero_columnas) for i in range(numero_filas)]
 
-for i in dict.keys():
-	print(dict[i])
+for i in range(len(matriz)):
+	for j in range(len(matriz[i])):
+		if j == 0:
+			matriz[i][j]= 
+'''
+'''
+for i in range(len(matriz)):
+	for j in range(len(matriz[i])):
+		print(matriz[i][j], end=' ')
+    print()	
+'''
 
-
-
-
-
-
+'''
+for i in range (1,100):
+	print("  %6d  %6d  %6d  " %(i, i*i, i*i*i))
+'''
 

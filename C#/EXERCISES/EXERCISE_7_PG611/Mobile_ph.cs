@@ -1,6 +1,6 @@
 ﻿//CLASS THAT REPRESENTS A MOBILE PHONE OBJECT
 using System;
-
+using using System.Collections.Generic;
 
 namespace OOP_EXERCISE{
     public class Mobile_ph{
@@ -12,16 +12,36 @@ namespace OOP_EXERCISE{
         
         private Battery _phBattery = null;
         private Screen _phScreen = null;
+        private List<Call> _callHistory = null;
     
         public Mobile_ph (string model, string manufacturer, string owner, int price, string batModel, int batIdle, int batTimeHourTalk, 
-            string scrSize, string scrColor, BatteryType batteryType ){
-                this._model = model;
+            string scrSize, string scrColor, BatteryType batteryType){
                 this._manufacturer = manufacturer;
                 this._owner = owner;
                 this._price = price;
                 
                 this._phBattery = new Battery (batModel, batIdle, batTimeHourTalk, batteryType );
                 this._phScreen = new Screen (scrSize, scrColor);
+        }
+
+        //Method that adds a call to _callHistory
+        public int AddCall(Call new_call){
+            
+            if (this._callHistory == null)
+                this._callHistory = new List<Call>();
+
+
+            this._callHistory.Add(new_call);
+
+            return 0;
+        }
+
+        //Method that removes all phone calls from _callHistory
+        public int RmvPhCalls(){
+            
+            this._callHistory = null;
+        
+            return 0;
         }
 
         // Public properties
@@ -54,6 +74,12 @@ namespace OOP_EXERCISE{
             get { return _phScreen; }
             set { _phScreen = value; }
         }
+
+        public List<Call> CallHistory{
+            get{ return _callHistory; }
+            set{ _callHistory = value; }
+        }
+
     }
 }
 

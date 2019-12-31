@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+'''
 import random
 
 #Functions of fibonacci
@@ -25,7 +25,7 @@ def add_the_numbers(start, end, step):
 	for i in range(start, end+ step, step):
 		total+= i
 	print(total)
-
+'''
 '''
 INPUT 
 start = int(input("Desde donde quiere empezar: "))
@@ -73,4 +73,24 @@ for i in range(len(matriz)):
 for i in range (1,100):
 	print("  %6d  %6d  %6d  " %(i, i*i, i*i*i))
 '''
+
+
+n = int(input())
+arr = map(int, input().split())
+
+maxi = 0  
+mini = 0
+result = 0
+
+for i in arr:
+	print("im here")
+	if (arr[i] > maxi):
+		maxi = arr[i]
+	if (arr[i] < mini):
+		mini = arr[i]
+	if (result > arr[i] and result > mini and result < maxi):
+		result = arr[i]
+
+
+print(result)
 

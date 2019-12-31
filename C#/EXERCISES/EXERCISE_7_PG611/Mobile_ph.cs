@@ -1,6 +1,6 @@
 ﻿//CLASS THAT REPRESENTS A MOBILE PHONE OBJECT
 using System;
-using using System.Collections.Generic;
+using System.Collections.Generic;
 
 namespace OOP_EXERCISE{
     public class Mobile_ph{

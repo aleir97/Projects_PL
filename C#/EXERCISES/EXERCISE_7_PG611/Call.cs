@@ -1,9 +1,7 @@
 using System;
 
 namespace OOP_EXERCISE{
-
     public class Call{
-        
         private DateTime _callDate;
         private TimeSpan _tmCall;
         private TimeSpan _callDrtn;
@@ -14,6 +12,15 @@ namespace OOP_EXERCISE{
             this._callDrtn = callDrtn;
         }
     
+        //
+        public double Cost_call(){
+            double rst = 0;
+
+            rst = (this._callDrtn.TotalMinutes) * 0.37;
+
+            return rst;
+        }
+
         public DateTime CallDate{
             get{ return _callDate; }
             set{ _callDate = value; }

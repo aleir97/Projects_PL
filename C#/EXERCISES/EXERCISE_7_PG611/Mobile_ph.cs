@@ -36,8 +36,38 @@ namespace OOP_EXERCISE{
             return 0;
         }
 
+        //Method that calculates the cost of all phone calls
+        public double Cost_all_calls(){
+            double rst = 0;
+
+            foreach (Call call in this.CallHistory)
+                rst += call.Cost_call(); 
+
+            return rst;
+        }
+
+        //Method that shows all phone calls info
+        public void Ph_calls() {
+            int i = 0;
+            
+            
+            if (this.CallHistory == null){
+                Console.WriteLine("EMPTY LIST!");
+
+            }else
+                foreach (Call elem in this.CallHistory) {
+                    i ++;
+                    
+                    Console.WriteLine("\nph Call Nº: {0}",i);
+                    Console.WriteLine("Date ph Call {0}: {1}/{2}/{3}", i, elem.CallDate.Day, elem.CallDate.Month, elem.CallDate.Year);
+                    Console.WriteLine("Duration ph Call {0}: {1}",i, elem.CallDrtn);
+                    Console.WriteLine("Received at {0}: {1}",i, elem.TmCall);
+                    
+                }
+        }
+
         //Method that removes all phone calls from _callHistory
-        public int RmvPhCalls(){
+        public int Rmv_ph_calls(){
             
             this._callHistory = null;
         

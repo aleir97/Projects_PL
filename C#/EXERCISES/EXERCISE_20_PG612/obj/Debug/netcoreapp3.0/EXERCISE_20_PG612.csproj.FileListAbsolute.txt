@@ -1,11 +1,11 @@
-/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/obj/Debug/netcoreapp3.0/EXERCISE_20_PG612.csprojAssemblyReference.cache
-/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/obj/Debug/netcoreapp3.0/EXERCISE_20_PG612.AssemblyInfoInputs.cache
-/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/obj/Debug/netcoreapp3.0/EXERCISE_20_PG612.AssemblyInfo.cs
 /home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/bin/Debug/netcoreapp3.0/EXERCISE_20_PG612
 /home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/bin/Debug/netcoreapp3.0/EXERCISE_20_PG612.deps.json
 /home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/bin/Debug/netcoreapp3.0/EXERCISE_20_PG612.runtimeconfig.json
 /home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/bin/Debug/netcoreapp3.0/EXERCISE_20_PG612.runtimeconfig.dev.json
 /home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/bin/Debug/netcoreapp3.0/EXERCISE_20_PG612.dll
 /home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/bin/Debug/netcoreapp3.0/EXERCISE_20_PG612.pdb
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/obj/Debug/netcoreapp3.0/EXERCISE_20_PG612.csprojAssemblyReference.cache
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/obj/Debug/netcoreapp3.0/EXERCISE_20_PG612.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/obj/Debug/netcoreapp3.0/EXERCISE_20_PG612.AssemblyInfo.cs
 /home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/obj/Debug/netcoreapp3.0/EXERCISE_20_PG612.dll
 /home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_20_PG612/obj/Debug/netcoreapp3.0/EXERCISE_20_PG612.pdb

@@ -26,9 +26,6 @@ namespace EX_20_PG612{
             return str;
         }
 
-
-
-
         // Public properties
         public string Title{
             get { return _title; }

@@ -38,6 +38,19 @@ namespace EX_20_PG612{
             return null;
         }
 
+        //Method that shows all books in library
+        public void ShwBooks(){
+
+            int i = 0;
+
+            foreach(Book book in this._books){
+                i++;
+                Console.WriteLine("BOOK: {0}\n{1}\n***************************", i, book);
+            }
+
+        }
+
+
         //Method that deletes a book in the library
         public bool RmBook(Book book){
             

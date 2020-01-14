@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "EXERCISE_23_PG612/1.0.0": {
+        "runtime": {
+          "EXERCISE_23_PG612.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EXERCISE_23_PG612/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

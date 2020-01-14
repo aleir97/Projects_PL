@@ -1,0 +1,11 @@
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/bin/Debug/netcoreapp3.0/EXERCISE_1_PG636
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/bin/Debug/netcoreapp3.0/EXERCISE_1_PG636.deps.json
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/bin/Debug/netcoreapp3.0/EXERCISE_1_PG636.runtimeconfig.json
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/bin/Debug/netcoreapp3.0/EXERCISE_1_PG636.runtimeconfig.dev.json
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/bin/Debug/netcoreapp3.0/EXERCISE_1_PG636.dll
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/bin/Debug/netcoreapp3.0/EXERCISE_1_PG636.pdb
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/obj/Debug/netcoreapp3.0/EXERCISE_1_PG636.csprojAssemblyReference.cache
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/obj/Debug/netcoreapp3.0/EXERCISE_1_PG636.AssemblyInfoInputs.cache
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/obj/Debug/netcoreapp3.0/EXERCISE_1_PG636.AssemblyInfo.cs
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/obj/Debug/netcoreapp3.0/EXERCISE_1_PG636.dll
+/home/alejandro/Documentos/GITHUB/C#/EXERCISES/EXERCISE_1_PG636/obj/Debug/netcoreapp3.0/EXERCISE_1_PG636.pdb

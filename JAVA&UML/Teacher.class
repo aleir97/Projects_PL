@@ -1,0 +1,10 @@
+public class Teacher extends Person {
+    public String title;
+    public String field;
+    public int ID;
+
+
+
+    public void givesGrades(int subId, int studId) {
+    }
+}
